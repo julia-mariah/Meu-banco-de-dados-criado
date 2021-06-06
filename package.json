@@ -1,13 +1,13 @@
 {
   "name": "para-o-lar-dados",
   "version": "1.0.0",
-  "description": "",
+  "description": "Banco de dados da Julia",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "Julia Mariah",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
